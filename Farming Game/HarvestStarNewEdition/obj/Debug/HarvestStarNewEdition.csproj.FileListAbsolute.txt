@@ -1,0 +1,27 @@
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe.config
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csprojResolveAssemblyReference.cache
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Form1.resources
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Properties.Resources.resources
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csproj.GenerateResource.Cache
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Documents\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe.config
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csprojResolveAssemblyReference.cache
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Form1.resources
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Properties.Resources.resources
+C:\Users\Kristi\Documents\Kristi\School\Grade 12\comp sci\Culminating\MyFirstProject\HarvestStarShare\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csproj.GenerateResource.Cache
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe.config
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.exe
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\bin\Debug\HarvestStarNewEdition.pdb
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csprojResolveAssemblyReference.cache
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Form1.resources
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.Properties.Resources.resources
+C:\Users\Kristi\Desktop\HarvestStarNewEdition\HarvestStarNewEdition\obj\Debug\HarvestStarNewEdition.csproj.GenerateResource.Cache
